@@ -7,6 +7,8 @@
 
 First Package PHP Laravel
 
+## Documents
+[Public Laravel Packagist](https://pusher.com/tutorials/publish-laravel-packagist)
 
 ## Laravel 5.x & 6.x
 
