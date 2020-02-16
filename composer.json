@@ -1,0 +1,17 @@
+{
+    "name": "saritasa/contactform",
+    "description": "A contact form package for Laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vinh Vo",
+            "email": "vinh@saritasa.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "saritasa\\contactform": "src/"
+        }
+    }
+}
