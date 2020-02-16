@@ -12,10 +12,10 @@ First Package PHP Laravel
 
 ## Laravel 5.x & 6.x
 
-Install the ```saritasa/contactform``` package:
+Install the ```vinhvo/contactform``` package:
 
 ```bash
-$ composer require saritasa/contactform
+$ composer require vinhvo/contactform
 ```
 
 Add the NotificationsApiServiceProvider in ``config/app.php``:
@@ -23,7 +23,7 @@ Add the NotificationsApiServiceProvider in ``config/app.php``:
 ```php
 'providers' => array(
     // ...
-    saritasa\contactform\ContactFormServiceProvider::class,
+    vinhvo\contactform\ContactFormServiceProvider::class,
 )
 ```
 

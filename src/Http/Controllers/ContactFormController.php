@@ -1,10 +1,10 @@
 <?php
 
-namespace saritasa\contactform\Http\Controllers;
+namespace vinhvo\contactform\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use saritasa\contactform\Models\Contact;
+use vinhvo\contactform\Models\Contact;
 
 class ContactFormController extends Controller {
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace saritasa\contactform\Models;
+namespace vinhvo\contactform\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

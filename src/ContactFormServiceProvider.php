@@ -1,6 +1,6 @@
 <?php
 
-namespace saritasa\contactform;
+namespace vinhvo\contactform;
 
 use Illuminate\Support\ServiceProvider;
 
