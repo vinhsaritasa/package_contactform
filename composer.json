@@ -2,6 +2,7 @@
     "name": "vinhvo/contactform",
     "description": "A contact form package for Laravel",
     "type": "library",
+    "keywords": ["laravel", "api", "contact"],
     "authors": [
         {
             "name": "Vinh Vo",
@@ -11,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "vinhvo\\contactform": "src/"
+            "vinhvo\\contactform\\": "src/"
         }
     }
 }
