@@ -1,9 +1,6 @@
 # First Package PHP Laravel
 
-[![Build Status](https://travis-ci.org/Saritasa/php-laravel-notifications-api.svg?branch=master)](https://travis-ci.org/Saritasa/php-laravel-notifications-api)
-[![Release](https://img.shields.io/github/release/saritasa/php-laravel-notifications-api.svg)](https://github.com/Saritasa/php-laravel-notifications-api/releases)
-[![PHPv](https://img.shields.io/packagist/php-v/saritasa/laravel-notifications-api.svg)](http://www.php.net)
-[![Downloads](https://img.shields.io/packagist/dt/saritasa/laravel-notifications-api.svg)](https://packagist.org/packages/saritasa/laravel-notifications-api)
+[![Downloads](https://img.shields.io/packagist/dt/vinhvo/contactform.svg)](https://packagist.org/packages/vinhvo/contactform)
 
 First Package PHP Laravel
 
