@@ -29,7 +29,4 @@ Add the NotificationsApiServiceProvider in ``config/app.php``:
 
 ## Resources
 
-* [Bug Tracker](http://github.com/saritasa/php-laravel-notifications-api/issues)
-* [Code](http://github.com/saritasa/php-laravel-notifications-api)
-* [Changes History](CHANGES.md)
-* [Authors](http://github.com/saritasa/php-laravel-notifications-api/contributors)
+* [Saritasa](http://saritasa.com)
