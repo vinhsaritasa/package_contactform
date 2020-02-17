@@ -2,6 +2,7 @@
     "name": "vinhvo/contactform",
     "description": "A contact form package for Laravel",
     "type": "library",
+    "license": "MIT",
     "keywords": ["laravel", "api", "contact"],
     "authors": [
         {
