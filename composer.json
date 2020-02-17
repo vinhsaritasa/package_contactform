@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "vinhvo\\contactform\\": "src/"
+            "vinhvo\\contactform\\": "src"
         }
     }
 }
