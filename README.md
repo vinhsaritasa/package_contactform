@@ -1,4 +1,4 @@
-# First Package PHP Laravel
+# First Package PHP Laravel (Learning)
 
 [![Downloads](https://img.shields.io/packagist/dt/vinhvo/contactform.svg)](https://packagist.org/packages/vinhvo/contactform)
 
